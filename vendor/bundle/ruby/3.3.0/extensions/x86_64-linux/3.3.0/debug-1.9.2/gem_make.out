@@ -1,0 +1,19 @@
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/ernest/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-e5we0d sitelibdir\=./.gem.20240702-26906-e5we0d clean
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-e5we0d sitelibdir\=./.gem.20240702-26906-e5we0d
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-e5we0d sitelibdir\=./.gem.20240702-26906-e5we0d install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240702-26906-e5we0d/debug
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-e5we0d sitelibdir\=./.gem.20240702-26906-e5we0d clean

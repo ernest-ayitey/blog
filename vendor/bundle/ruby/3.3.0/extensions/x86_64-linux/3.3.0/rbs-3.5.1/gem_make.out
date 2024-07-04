@@ -1,0 +1,27 @@
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.1/ext/rbs_extension
+/home/ernest/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240703-12270-1ezivw sitelibdir\=./.gem.20240703-12270-1ezivw clean
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240703-12270-1ezivw sitelibdir\=./.gem.20240703-12270-1ezivw
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.so
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240703-12270-1ezivw sitelibdir\=./.gem.20240703-12270-1ezivw install
+/usr/bin/install -c -m 0755 rbs_extension.so ./.gem.20240703-12270-1ezivw
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240703-12270-1ezivw sitelibdir\=./.gem.20240703-12270-1ezivw clean

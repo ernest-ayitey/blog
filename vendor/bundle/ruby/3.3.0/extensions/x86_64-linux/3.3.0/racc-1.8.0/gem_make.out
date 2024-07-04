@@ -1,0 +1,18 @@
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/home/ernest/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-8tj0he sitelibdir\=./.gem.20240702-26906-8tj0he clean
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-8tj0he sitelibdir\=./.gem.20240702-26906-8tj0he
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-8tj0he sitelibdir\=./.gem.20240702-26906-8tj0he install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240702-26906-8tj0he/racc
+
+current directory: /home/ernest/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240702-26906-8tj0he sitelibdir\=./.gem.20240702-26906-8tj0he clean
